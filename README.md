@@ -37,4 +37,4 @@ Uma página contendo um formulário para incluir novas fotos, com nome do autor,
 ![Feed](frontend/src/assets/demopage-1.png)
 
 ### <strong>Adicionar imagem:</strong>
-![Feed](frontend/src/assets/demopage-2.png)
+![Post image](frontend/src/assets/demopage-2.png)
